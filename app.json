@@ -1,0 +1,37 @@
+{
+  "id": "89e30ddc-e033-4ee0-9ae6-8455ea392052",
+  "name": "GRITS",
+  "publisher": "Dveloper",
+  "version": "19.0.211022.01",
+  "brief": "GRITS test.",
+  "description": "GRITS test.",
+  "privacyStatement": "https://GRITS.com/help/",
+  "EULA": "https://GRITS.com/help/",
+  "help": "https://GRITS.com/help/",
+  "url": "https://GRITS.com/help/",
+  "contextSensitiveHelpUrl": "https://GRITS.com/help/",
+  "preprocessorSymbols": [ "CLEAN15", "CLEAN16", "CLEAN17", "CLEAN18" ],
+  "supportedLocales": [
+    "en-US",
+    "sr-Latn-RS"
+  ],
+  "screenshots": [],
+  "application": "19.0.0.0",
+  "platform": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    } 
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "8.0",
+  "features": [
+    "TranslationFile",
+    "GenerateCaptions"
+  ]
+}
